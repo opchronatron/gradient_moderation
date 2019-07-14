@@ -122,3 +122,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/encodings.xml
+.idea/gradient_moderation.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
